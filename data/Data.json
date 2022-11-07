@@ -1,0 +1,86 @@
+[
+    {
+        "catagory": "Landscape",
+        "img": "https://photographylife.com/wp-content/uploads/2016/06/Mass-960x640.jpg",
+        "about": "Landscape photography is another way of saying scenic or environmental photography. It involves taking pictures of a natural scene – often large and grand, but sometimes smaller and more intimate – in a way that brings the viewer into a scene. Landscape photography is one of the most popular types today, spinning off several sub-genres such as storm photography, seascapes, and so on. With a broader definition, it also includes “urban landscape” photography and manmade scenes.Landscape photography is a very accessible type of photography, but that doesn’t mean it is easy to master!",
+        "device": "NIKON D800E + 24mm f/1.4",
+        "provider": " Nasim Mansurov"
+    },
+    {
+        "catagory": "Wildlife",
+        "img": "https://photographylife.com/wp-content/uploads/2018/02/Puffin-Photo-960x640.jpg",
+        "about": "Wildlife photography can bring out some of the most intense photographers you’ll meet – people who might spend hours on end waiting for an animal to wander into the perfect spot, or search for creatures that most people would rather try to avoid. But it’s also something you can practice in your own backyard, or a short drive from where you live, since there are animals to be found everywhere. From time to time, you’ll see a photo series of urban wildlife that rivals the best images captured in more remote locations.",
+        "device": "NIKON D800E + 70-200mm",
+        "provider": " Nasim Mansurov"
+    },
+    {
+        "catagory": "Macro",
+        "img": "https://photographylife.com/wp-content/uploads/2017/09/Macro-photography-focusing-960x640.jpg",
+        "about": "One of the most accessible types of photography is macro, the art of capturing small creatures and objects that we ordinarily overlook. Macro photography is usually associated with images of bugs and flowers, but even subjects like snowflakes or water droplets in the studio can make for amazing macro photos. A related style of photography is simply “close-up” photography, which might not be as magnified as true macro work, but still isolates a small slice of the world that otherwise may not stand out.Although a dedicated macro lens can be expensive, a set of extension tubes is much cheaper and likely works just fine with your current equipment. For photographers who only ever take pictures when they travel, my top recommendation is to start practicing macro photography one way or another. It’s not easy to master, but you’ll learn some very useful technical skills and take some stellar photos along the way.",
+        "device": "NIKON D7000 + 105mm",
+        "provider": "Lola Mansurov"
+    },
+    {
+        "catagory": "Underwater",
+        "img": "https://photographylife.com/wp-content/uploads/2018/03/Some-noise-at-high-ISO-960x640.jpg",
+        "about": "It isn’t always easy to take underwater photos, even if you live in the right location for it. Not only do you need a good waterproof camera, but you also need some specific lighting equipment the moment you start taking photos more than a short distance from the surface. Add in scuba gear and the requisite training for longer dives, and you can see why this is one of the trickier genres to start practicing. But if you put in the money and effort, you’ll end up with photos that not nearly as many people are taking today. Underwater photography spans everything from wildlife and macro to portraits that are striking to the eye.",
+        "device": "NIKON D7000 + 105mm",
+        "provider": " Nasim Mansurov"
+    },
+    {
+        "catagory": "Aerial Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2020/12/Five-Image-Average-from-Drone-960x640.jpg",
+        "about": "Whether this is simply a branch of landscape photography or a genre of its own is debatable, but either way, aerial photography is experiencing an explosion in popularity today thanks to the advent of high-quality consumer drones. Aerial photography also encompasses high-altitude images from planes and helicopters, as well as images where the subject is manmade rather than a landscape per se.",
+        "device": "DJI Mavic 2 Pro Drone",
+        "provider": "JAhidul Islam"
+    },
+    {
+        "catagory": "People Photography Portraits",
+        "img": "https://photographylife.com/wp-content/uploads/2018/07/Monochrome-Portrait-Photograph-960x720.jpg",
+        "about": "The broadest type of people photography is portraiture, covering everything from family portraits to fine-art photography and commercial work. Often, the goal of portraiture is to show the character of a subject – to capture the person’s personality and emotion in an image. Portrait photography is also quite an accessible genre overall, not requiring more than a single prime lens and flash to start at a high level (or whatever equipment you already have if you’re just testing the waters). But capturing the essence of a subject, or meeting the goals for your commercial project, can take a lifetime of work.",
+        "device": "NIKON D7000 + 17-55mm",
+        "provider": "Lola Mansurov"
+    },
+    {
+        "catagory": "Sports",
+        "img": "https://photographylife.com/wp-content/uploads/2018/07/Two-Hikers-and-Negative-Space-960x640.jpg",
+        "about": "Another broad style of photography is sports photography, from international events like the Olympics to adventure-based photography in the most remote areas of the world. Even a parent photographing their child playing sports is part of this genre – a type of photography which requires top-notch autofocus skills, good timing, and often a very fast shutter speed.",
+        "device": "NIKON D800E + 70-200mm",
+        "provider": "JAhidul Islam"
+    },
+    {
+        "catagory": "Fashion",
+        "img": "A cousin of portraiture, but distinct enough to count as its own genre, is fashion photography. This is a fast-paced world, and the best fashion photographers are intimately knowledgeable not just about lighting and photography but also the clothing styles they’re photographing. Fashion photographs are usually intended for brands and advertisements, but not always, especially in today’s Instagram world.",
+        "about": "https://photographylife.com/wp-content/uploads/2013/05/How-to-plan-a-photo-shoot-960x640.jpg",
+        "device": "NIKON D800E + 35mm f/1.4",
+        "provider": "JAhidul Islam"
+    },
+    {
+        "catagory": "Commercial",
+        "img": "https://photographylife.com/wp-content/uploads/2021/04/Nikon-Z7-II-960x677.jpg",
+        "about": "Commercial photography of people is anything intended to sell a product, especially advertisements and even stock photos. Commercial photographers often simply capture the products themselves, although that’s something I’ll cover later in this article; people are still used very frequently in advertising campaigns today. Usually, the goal of commercial photography is to create images that match the emotions and message the brand in question is trying to convey. These photographers need special skills in studio lighting and visualization to make the client’s plan a reality.",
+        "device": "NIKON D3S + 70-200mm",
+        "provider": "Lola Mansurov"
+    },
+    {
+        "catagory": "Travel",
+        "img": "https://photographylife.com/wp-content/uploads/2018/11/Moving-Subject-AF-C-Nikon-Z7-960x640.jpg",
+        "about": "One of the broadest types of people photography is travel – photographing life in another area of the world, whether portraits or candid images. Good travel photography captures the striking similarities and differences among people across the world, making us feel more connected and aware of how other people live.",
+        "device": "NIKON Z 7 + 70-200mm",
+        "provider": "Lola Mansurov"
+    },
+    {
+        "catagory": "Pet Photography",
+        "img": "https://photographylife.com/wp-content/uploads/2019/01/Pet-Photography-Genre-Example-960x636.jpg",
+        "about": "Pet photography doesn’t fit perfectly under one of this article’s broader categories, but I put it at the end of “people photography” because pets are an important part of many people’s families. And similar skills apply to pet photography as portraiture – understanding light, dealing with fast-paced chaos, and conveying the essence of your subject. Aside from selfies, this might just be the most popular genre of photography today!",
+        "device": "NIKON D7000 + 50mm ",
+        "provider": "JAhidul Islam"
+    },
+    {
+        "catagory": "Food",
+        "img": "https://photographylife.com/wp-content/uploads/2013/06/Food-Photography-5-960x638.jpg",
+        "about": "Food photography has experienced a remarkable growth in popularity in recent years thanks to social media. Previously, it was essentially a sub-genre of commercial work – advertisements, cookbooks, menus, and so on – but it’s becoming more a part of documentary photography today.No matter the final output, though, food photos almost always try to capture their subject in the most appetizing way possible. Sometimes, food photographers will replace the actual foods in an image with artificial substitutes that look tastier, such as glue rather than milk when photographing cereal!",
+        "device": "NIKON D300 + 50mm",
+        "provider": "JAhidul Islam"
+    }
+]
