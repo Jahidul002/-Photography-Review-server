@@ -4,7 +4,7 @@ install---cors
 install---mongodb
 install---nodemon
 install---dotenv
-install---
+install---jwt
 install---
 
 push:1/2/
